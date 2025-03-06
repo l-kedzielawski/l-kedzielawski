@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Lukasz, a cybersecurity enthusiast currently advancing my skills through self-study, practical projects, and foundational certifications.
 
-<!--
-**l-kedzielawski/l-kedzielawski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Initially, I was searching for something challenging—something to sharpen my cognitive skills and keep me engaged. Once I discovered cybersecurity, I immediately knew it was my path. The vast and continuously evolving nature of this field fascinates me and feels like a perfect fit.
 
-Here are some ideas to get you started:
+Throughout my learning journey, I’ve strengthened my problem-solving abilities and learned to approach challenges creatively. My previous experiences in business have provided me with strong communication skills, discipline, and persistence. In every endeavor, I prioritize authenticity, integrity, and transparency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As I'm relatively new to cybersecurity, I'm exploring various specializations to discover where my interests align best—whether it’s penetration testing, digital forensics, network defense, or something else entirely. I'm excited to continue learning and growing alongside professionals in this dynamic field, leveraging my developing skills to help organizations mitigate risks and enhance their cybersecurity resilience.
+
+Currently, I’m pursuing foundational certifications and working on hands-on projects involving:
+
+- Linux Security
+- Programming (shell, bash, SQL, Python)
+- Networks
+- Encryption
+- General Cybersecurity Fundamentals
+
+Check out my repositories below!
+
+**Contact Me:**
+**Email:** [l.kedzielawski@gmail.com](mailto:l.kedzielawski@gmail.com)  
+**LinkedIn:** [linkedin.com/in/lukasz-kedzielawski](https://www.linkedin.com/in/lukasz-kedzielawski/)
