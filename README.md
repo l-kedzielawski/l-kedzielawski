@@ -8,11 +8,13 @@ As I'm relatively new to cybersecurity, I'm exploring various specializations to
 
 Currently, I’m pursuing foundational certifications and working on hands-on projects involving:
 
-- Linux Security
-- Programming (shell, bash, SQL, Python)
-- Networks
-- Encryption
-- General Cybersecurity Fundamentals
+- **Linux & Windows System Hardening**
+- **Cloud Security & AWS Fundamentals**
+- **Encryption & Cryptography (LUKS, VeraCrypt)**
+- **Penetration Testing & Vulnerabilities**
+- **Networking & Network Security**
+- **Programming/Scripting** (`Bash`, `Shell`, `Python`, `SQL`)
+- **Cybersecurity Fundamentals**
 
 Check out my repositories below!
 
